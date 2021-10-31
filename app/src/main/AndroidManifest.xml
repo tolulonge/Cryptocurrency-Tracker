@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CryptocurrencyTrackerApp">
         <activity
-            android:name="com.tolulonge.cryptotracker.MainActivity"
+            android:name="com.tolulonge.cryptotracker.presentation.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.CryptocurrencyTrackerApp">

@@ -1,4 +1,4 @@
-package com.tolulonge.cryptotracker.ui.theme
+package com.tolulonge.cryptotracker.presentation.ui.theme
 
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.darkColors

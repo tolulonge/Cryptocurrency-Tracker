@@ -1,4 +1,4 @@
-package com.tolulonge.cryptotracker.ui.theme
+package com.tolulonge.cryptotracker.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
