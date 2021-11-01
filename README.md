@@ -2,7 +2,7 @@
 A clean architecture compose application that uses MVVM, use cases and 
 Jetpack compose to display list of cryptocurrency coins and their details on a seperate page.
 
-Features the presentation layer, domain layer and data layer.
+Features the presentation layer, domain layer and the data layer and also employs dependency injection with hilt.
 
 ![WhatsApp Image 2021-11-01 at 02 56 43](https://user-images.githubusercontent.com/40584796/139611236-4a40c113-2247-4540-b0cb-5ae4164cef46.jpeg)
 
